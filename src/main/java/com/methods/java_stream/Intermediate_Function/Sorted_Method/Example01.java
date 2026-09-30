@@ -1,4 +1,4 @@
-package com.methods.java_stream.Intermediate_Function.Sorted_Example;
+package com.methods.java_stream.Intermediate_Function.Sorted_Method;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.methods.java_stream.Intermediate_Function.FlatMap_Example;
+package com.methods.java_stream.Intermediate_Function.FlatMap_Method;
 
 import java.util.Arrays;
 import java.util.List;
