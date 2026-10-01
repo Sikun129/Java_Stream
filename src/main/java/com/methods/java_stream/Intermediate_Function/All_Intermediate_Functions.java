@@ -1,9 +1,9 @@
-package com.methods.java_stream;
+package com.methods.java_stream.Intermediate_Function;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Intermediate_Functions {
+public class All_Intermediate_Functions {
     public static void main(String[] args) {
 //       List<Integer> list =new ArrayList<>(List.of(1,41,11,13,34));
 

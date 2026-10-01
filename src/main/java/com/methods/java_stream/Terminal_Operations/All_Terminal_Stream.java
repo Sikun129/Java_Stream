@@ -1,11 +1,9 @@
-package com.methods.java_stream;
+package com.methods.java_stream.Terminal_Operations;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
-public class Terminal_Stream {
+public class All_Terminal_Stream {
     public static void main(String[] args) {
 
         List<Integer> list1 =new ArrayList<>(List.of(1,13,11,9));
